@@ -1,14 +1,53 @@
 /* Write your CSS here! */
-<style>
-body {
-      background-image: url(.\Photos\Oceanshorehighwaves.jpg)
-      background-size: contain;
-      background-repeat: no-repeat;
-      width: 500px;
-      height: 500px;
-}
-</style>
-<div> style="font-size:40px" </div>
 header {
 	padding: 1.875em 0;
+}
+
+figcaption {
+	font-style: italic;
+    font-size: 80%;
+}
+
+div {
+    border: 10px solid black;
+    margin-top: 50px;
+    margin-bottom: 8px;
+    margin-right: 20px;
+    margin-left: 40px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color: rgb(41, 152, 227);
+  }
+
+p.center {
+    text-align: center;   
+    color: rgb(7, 9, 113);
+  }
+  
+p.large {
+    font-size: 200%;
+  }
+ 
+html {
+    font-family: georgia    
+  }
+
+header h1 {
+	text-align: center;
+}
+
+figure {
+	margin: 0;
+	padding: 10;
+	text-align: center;
+}
+
+#mainHeading {
+    background-color: rgb(255, 30, 0);
+}
+
+.funParagraph {
+    background-color: rgb(29, 145, 46);   
 }
