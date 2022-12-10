@@ -49,9 +49,9 @@ figure {
 }
 
 #mainHeading {
-    color: rgb(255, 30, 0);
+    color: red
 }
 
-.funParagraph {
-    color: rgb(29, 145, 46);   
+#funParagraph {
+    color: green;   
 }
