@@ -8,17 +8,20 @@ figcaption {
     font-size: 80%;
 }
 
+body {
+  background-color: rgb(141, 207, 229);
+}
+
+
 div {
     border: 10px solid black;
-    margin-top: 50px;
-    margin-bottom: 8px;
-    margin-right: 20px;
-    margin-left: 40px;
+    margin: 8px;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    background-color: rgb(41, 152, 227);
+    background-color: rgb(122, 183, 224);
+    display: block;
   }
 
 p.center {
@@ -46,9 +49,9 @@ figure {
 }
 
 #mainHeading {
-    background-color: rgb(255, 30, 0);
+    color: rgb(255, 30, 0);
 }
 
 .funParagraph {
-    background-color: rgb(29, 145, 46);   
+    color: rgb(29, 145, 46);   
 }
