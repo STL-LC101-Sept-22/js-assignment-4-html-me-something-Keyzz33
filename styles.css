@@ -1,6 +1,6 @@
 /* Write your CSS here! */
 header {
-	padding: 1.875em 0;
+	padding: 1.5875em 0;
 }
 
 figcaption {
@@ -10,16 +10,18 @@ figcaption {
 
 body {
   background-color: rgb(141, 207, 229);
-}
-
-
-div {
-    border: 10px solid black;
+  border: 10px solid black;
     margin: 8px;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    display: block;
+}
+
+
+div {
+    
     background-color: rgb(122, 183, 224);
     display: block;
   }
@@ -55,3 +57,4 @@ figure {
 .funParagraph {
     color: green;   
 }
+
